@@ -185,9 +185,9 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\rnoll\\source\\repos\\RabbitMQ\\Configuration\\Configurartion.csproj",
-      "projectName": "Configurartion",
-      "projectPath": "C:\\Users\\rnoll\\source\\repos\\RabbitMQ\\Configuration\\Configurartion.csproj",
+      "projectUniqueName": "C:\\Users\\rnoll\\source\\repos\\RabbitMQ\\Configuration\\Configuration.csproj",
+      "projectName": "Configuration",
+      "projectPath": "C:\\Users\\rnoll\\source\\repos\\RabbitMQ\\Configuration\\Configuration.csproj",
       "packagesPath": "C:\\Users\\rnoll\\.nuget\\packages\\",
       "outputPath": "C:\\Users\\rnoll\\source\\repos\\RabbitMQ\\Configuration\\obj\\",
       "projectStyle": "PackageReference",

@@ -4,12 +4,12 @@
     "C:\\Users\\rnoll\\source\\repos\\RabbitMQ\\Receive\\Receive.csproj": {}
   },
   "projects": {
-    "C:\\Users\\rnoll\\source\\repos\\RabbitMQ\\Configuration\\Configurartion.csproj": {
+    "C:\\Users\\rnoll\\source\\repos\\RabbitMQ\\Configuration\\Configuration.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\rnoll\\source\\repos\\RabbitMQ\\Configuration\\Configurartion.csproj",
-        "projectName": "Configurartion",
-        "projectPath": "C:\\Users\\rnoll\\source\\repos\\RabbitMQ\\Configuration\\Configurartion.csproj",
+        "projectUniqueName": "C:\\Users\\rnoll\\source\\repos\\RabbitMQ\\Configuration\\Configuration.csproj",
+        "projectName": "Configuration",
+        "projectPath": "C:\\Users\\rnoll\\source\\repos\\RabbitMQ\\Configuration\\Configuration.csproj",
         "packagesPath": "C:\\Users\\rnoll\\.nuget\\packages\\",
         "outputPath": "C:\\Users\\rnoll\\source\\repos\\RabbitMQ\\Configuration\\obj\\",
         "projectStyle": "PackageReference",
@@ -107,8 +107,8 @@
           "net5.0": {
             "targetAlias": "net5.0",
             "projectReferences": {
-              "C:\\Users\\rnoll\\source\\repos\\RabbitMQ\\Configuration\\Configurartion.csproj": {
-                "projectPath": "C:\\Users\\rnoll\\source\\repos\\RabbitMQ\\Configuration\\Configurartion.csproj"
+              "C:\\Users\\rnoll\\source\\repos\\RabbitMQ\\Configuration\\Configuration.csproj": {
+                "projectPath": "C:\\Users\\rnoll\\source\\repos\\RabbitMQ\\Configuration\\Configuration.csproj"
               }
             }
           }

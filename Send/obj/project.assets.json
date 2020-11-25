@@ -33,14 +33,14 @@
           "lib/netcoreapp3.0/System.Threading.Channels.dll": {}
         }
       },
-      "Configurartion/1.0.0": {
+      "Configuration/1.0.0": {
         "type": "project",
         "framework": ".NETStandard,Version=v2.0",
         "compile": {
-          "bin/placeholder/Configurartion.dll": {}
+          "bin/placeholder/Configuration.dll": {}
         },
         "runtime": {
-          "bin/placeholder/Configurartion.dll": {}
+          "bin/placeholder/Configuration.dll": {}
         }
       }
     }
@@ -112,15 +112,15 @@
         "version.txt"
       ]
     },
-    "Configurartion/1.0.0": {
+    "Configuration/1.0.0": {
       "type": "project",
-      "path": "../Configuration/Configurartion.csproj",
-      "msbuildProject": "../Configuration/Configurartion.csproj"
+      "path": "../Configuration/Configuration.csproj",
+      "msbuildProject": "../Configuration/Configuration.csproj"
     }
   },
   "projectFileDependencyGroups": {
     "net5.0": [
-      "Configurartion >= 1.0.0",
+      "Configuration >= 1.0.0",
       "RabbitMQ.Client >= 6.2.1"
     ]
   },
@@ -164,8 +164,8 @@
         "net5.0": {
           "targetAlias": "net5.0",
           "projectReferences": {
-            "C:\\Users\\rnoll\\source\\repos\\RabbitMQ\\Configuration\\Configurartion.csproj": {
-              "projectPath": "C:\\Users\\rnoll\\source\\repos\\RabbitMQ\\Configuration\\Configurartion.csproj"
+            "C:\\Users\\rnoll\\source\\repos\\RabbitMQ\\Configuration\\Configuration.csproj": {
+              "projectPath": "C:\\Users\\rnoll\\source\\repos\\RabbitMQ\\Configuration\\Configuration.csproj"
             }
           }
         }

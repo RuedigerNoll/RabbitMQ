@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "OMzdKMf5uFJpjQKrSeEKO/Kl3C4rSH8udOVsR1K8vZ/BfRaqlnw1iNb7TO31OIV651isKtd3GUbXI0hAwzuIoA==",
+  "dgSpecHash": "35rqpEpWFKzM2gDrLi1aQWkgi6LraVUTFDp+/U3knnyI76zJhfZftkGgPbmiewo6OnnGGKIEeZTo0gaFhzsf+A==",
   "success": true,
-  "projectFilePath": "C:\\Users\\rnoll\\source\\repos\\RabbitMQ\\Configuration\\Configurartion.csproj",
+  "projectFilePath": "C:\\Users\\rnoll\\source\\repos\\RabbitMQ\\Configuration\\Configuration.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\rnoll\\.nuget\\packages\\microsoft.netcore.platforms\\1.1.0\\microsoft.netcore.platforms.1.1.0.nupkg.sha512",
     "C:\\Users\\rnoll\\.nuget\\packages\\netstandard.library\\2.0.3\\netstandard.library.2.0.3.nupkg.sha512"
