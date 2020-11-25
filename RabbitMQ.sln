@@ -1,0 +1,37 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30709.64
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Send", "Send\Send.csproj", "{EAFF5246-12B7-4F5F-9FF6-7922BD8257CD}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Receive", "Receive\Receive.csproj", "{BA19E599-4B6A-4E23-9E45-249962232720}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Configurartion", "Configuration\Configurartion.csproj", "{DB9E9C8F-DF79-4347-AD26-54736536A7DF}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{EAFF5246-12B7-4F5F-9FF6-7922BD8257CD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EAFF5246-12B7-4F5F-9FF6-7922BD8257CD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{EAFF5246-12B7-4F5F-9FF6-7922BD8257CD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{EAFF5246-12B7-4F5F-9FF6-7922BD8257CD}.Release|Any CPU.Build.0 = Release|Any CPU
+		{BA19E599-4B6A-4E23-9E45-249962232720}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BA19E599-4B6A-4E23-9E45-249962232720}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BA19E599-4B6A-4E23-9E45-249962232720}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BA19E599-4B6A-4E23-9E45-249962232720}.Release|Any CPU.Build.0 = Release|Any CPU
+		{DB9E9C8F-DF79-4347-AD26-54736536A7DF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DB9E9C8F-DF79-4347-AD26-54736536A7DF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DB9E9C8F-DF79-4347-AD26-54736536A7DF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DB9E9C8F-DF79-4347-AD26-54736536A7DF}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {56ACC5AB-4FF8-4D81-BD60-CE279DE3C9F4}
+	EndGlobalSection
+EndGlobal

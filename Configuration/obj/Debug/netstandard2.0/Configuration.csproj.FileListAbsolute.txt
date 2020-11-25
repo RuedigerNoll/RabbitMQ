@@ -1,0 +1,8 @@
+C:\Users\rnoll\AppData\Local\Temp\Configuration\bin\Debug\netstandard2.0\Configuration.deps.json
+C:\Users\rnoll\AppData\Local\Temp\Configuration\bin\Debug\netstandard2.0\Configuration.dll
+C:\Users\rnoll\AppData\Local\Temp\Configuration\bin\Debug\netstandard2.0\Configuration.pdb
+C:\Users\rnoll\AppData\Local\Temp\Configuration\obj\Debug\netstandard2.0\Configuration.AssemblyInfoInputs.cache
+C:\Users\rnoll\AppData\Local\Temp\Configuration\obj\Debug\netstandard2.0\Configuration.AssemblyInfo.cs
+C:\Users\rnoll\AppData\Local\Temp\Configuration\obj\Debug\netstandard2.0\Configuration.csproj.CoreCompileInputs.cache
+C:\Users\rnoll\AppData\Local\Temp\Configuration\obj\Debug\netstandard2.0\Configuration.dll
+C:\Users\rnoll\AppData\Local\Temp\Configuration\obj\Debug\netstandard2.0\Configuration.pdb
